@@ -1,9 +1,8 @@
 // hello world 
 #include<iostream>
-using namespace std ;
 int main ()
 {
-    cout<<"Hello world !"<< endl;
-    cout<<"This is Basant Bhat ";
+    std :: cout<<"Hello world !"<< std :: endl;
+   std ::  cout<<"This is Basant Bhat ";
     return 0;
 }
